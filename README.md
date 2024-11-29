@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Plataforma-de-Cursos-Online---Desafio-Frontend-Junior
+Plataforma de cursos online com React e TypeScript. Permite explorar cursos, visualizar detalhes, cadastrar-se e avaliar. Inclui filtros por categoria e instrutor, busca por palavras-chave e design responsivo. Simula gerenciamento de usuários e cursos, ideal para prática de habilidades em frontend e desenvolvimento de SPA.
+>>>>>>> 5a694d2c890a912afab99536295be99569118fbe
