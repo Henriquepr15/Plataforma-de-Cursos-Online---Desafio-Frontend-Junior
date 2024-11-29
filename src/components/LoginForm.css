@@ -1,0 +1,117 @@
+.login-form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 30px;
+  background: linear-gradient(135deg, #1a1a1a, #262626);
+  border-radius: 15px;
+  box-shadow: 0 10px 30px rgba(51, 255, 102, 0.5);
+  max-width: 400px;
+  margin: 0 auto;
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+}
+
+.modal-content h2 {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #33ff66;
+  margin-bottom: 20px;
+}
+
+.login-form input {
+  font-family: "Roboto", sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  color: #fff;
+  padding: 12px;
+  border: 2px solid #33ff66;
+  background: transparent;
+  border-radius: 8px;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.login-form input::placeholder {
+  color: #aaa;
+  font-style: italic;
+}
+
+.login-form input:focus {
+  border-color: #218838;
+  outline: none;
+  box-shadow: 0 0 10px rgba(51, 255, 102, 0.8);
+}
+
+.login-form button {
+  font-family: "Roboto", sans-serif;
+  font-size: 1rem;
+  font-weight: 500;
+  color: #0d0d0d;
+  padding: 12px 18px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.close-btn {
+  background-color: #ff4c4c;
+  color: #fff;
+}
+
+.close-btn:hover {
+  background-color: #ff1c1c;
+  transform: scale(1.1);
+  box-shadow: 0 0 15px rgba(255, 76, 76, 0.7);
+}
+
+.toggle-btn {
+  background-color: #4a90e2;
+  color: #fff;
+}
+
+.toggle-btn:hover {
+  background-color: #357abd;
+  transform: scale(1.1);
+  box-shadow: 0 0 15px rgba(74, 144, 226, 0.7);
+}
+
+.submit-btn {
+  background: linear-gradient(135deg, #43d39e, #28a745);
+  color: #fff;
+}
+
+.submit-btn:hover {
+  background: linear-gradient(135deg, #28a745, #1e8c3e);
+  transform: scale(1.1);
+  box-shadow: 0 0 15px rgba(51, 255, 102, 0.8);
+}
+
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.9);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.modal-content {
+  background: linear-gradient(135deg, #0d0d0d, #1a1a1a);
+  padding: 40px;
+  border-radius: 15px;
+  width: 400px;
+  max-width: 90%;
+  box-shadow: 0 10px 30px rgba(51, 255, 102, 0.5);
+}
+
+@media (max-width: 768px) {
+  .login-form {
+    padding: 20px;
+    width: 90%;
+  }
+}
