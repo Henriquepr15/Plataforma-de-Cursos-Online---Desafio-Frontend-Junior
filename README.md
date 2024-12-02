@@ -35,7 +35,9 @@ Possíveis Melhorias Futuras
 - Integração com APIs externas para avaliação de cursos.
   
 Imagens de futuras alterações
+
 ![image](https://github.com/user-attachments/assets/18c0e256-33b9-49b1-9224-a025b609d295)
+
 ![image](https://github.com/user-attachments/assets/4ba236d7-d900-458d-98bd-589c6a748c6b)
 
 
