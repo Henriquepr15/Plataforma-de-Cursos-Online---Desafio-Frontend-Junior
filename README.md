@@ -1,4 +1,4 @@
-# Sistema-de-Gestao-de-Cursos-Online---Desafio-Backend-Junior
+# Sistema-de-Gestao-de-Cursos-Online---Desafio-Frontend-Junior
 
 Plataforma de Cursos Online - Desafio Frontend Júnior
 Descrição do Projeto
