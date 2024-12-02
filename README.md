@@ -19,11 +19,6 @@ Instruções para Configuração
    `npm start`
 5. Acesse o projeto no navegador em: `http://localhost:3000`.
 
-Informações de Contato
-LinkedIn: https://www.linkedin.com/in/henrique-pires15
-E-mail: henriquepiresricoy@gmail.com
-GitHub Repositório do Projeto: https://github.com/Henriquepr15/Plataforma-de-Cursos-Online---Desafio-Frontend-Junior.git
-
 Imagens do projeto
 
 ![image](https://github.com/user-attachments/assets/52c0935b-55da-4afa-ac5d-737e807c1a82)
