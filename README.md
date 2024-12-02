@@ -1,3 +1,5 @@
+# Sistema-de-Gestao-de-Cursos-Online---Desafio-Backend-Junior
+
 Plataforma de Cursos Online - Desafio Frontend Júnior
 Descrição do Projeto
 Este projeto é uma interface de usuário para uma plataforma de cursos online desenvolvida como parte do desafio técnico para a posição de Desenvolvedor Frontend Júnior. A aplicação permite explorar cursos disponíveis, visualizar detalhes, e se cadastrar em cursos, tudo em uma experiência de Single Page Application (SPA).
