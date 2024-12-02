@@ -18,11 +18,7 @@ Instruções para Configuração
 4. Inicie o projeto localmente:
    `npm start`
 5. Acesse o projeto no navegador em: `http://localhost:3000`.
-Possíveis Melhorias Futuras
-- Implementação de um banco de dados para gerenciar usuários e cursos.
-- Melhorias no design e usabilidade da interface.
-- Adição de imagens de fundo dinâmicas por categoria.
-- Integração com APIs externas para avaliação de cursos.
+
 Informações de Contato
 LinkedIn: https://www.linkedin.com/in/henrique-pires15
 E-mail: henriquepiresricoy@gmail.com
@@ -33,4 +29,14 @@ Imagens do projeto
 ![image](https://github.com/user-attachments/assets/52c0935b-55da-4afa-ac5d-737e807c1a82)
 
 ![image](https://github.com/user-attachments/assets/fcd0a6d7-3471-4f48-9221-cbff792524d4)
+
+Possíveis Melhorias Futuras
+- Implementação de um banco de dados para gerenciar usuários e cursos.
+- Melhorias no design e usabilidade da interface.
+- Adição de imagens de fundo dinâmicas por categoria.
+- Integração com APIs externas para avaliação de cursos.
+Imagens de futuras alterações
+![image](https://github.com/user-attachments/assets/18c0e256-33b9-49b1-9224-a025b609d295)
+![image](https://github.com/user-attachments/assets/4ba236d7-d900-458d-98bd-589c6a748c6b)
+
 
