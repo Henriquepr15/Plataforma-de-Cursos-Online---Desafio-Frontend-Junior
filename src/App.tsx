@@ -30,7 +30,7 @@ const App: React.FC = () => {
   const [showOnlyEnrolled, setShowOnlyEnrolled] = useState(false);
   const [timeLeft, setTimeLeft] = useState<number>(0);
   useEffect(() => {
-    const targetDate = new Date("2024-12-01T00:00:00");
+    const targetDate = new Date("2024-12-08T02:17:35"); // Alterando a data para 8 de dezembro de 2024
     const updateCountdown = () => {
       const currentTime = new Date();
       const difference = targetDate.getTime() - currentTime.getTime();
@@ -429,7 +429,4 @@ const App: React.FC = () => {
     </div>
   );
 };
-// Arquivo: src/App.tsx
-
-// Certifique-se de que a última linha está exportando o componente `App` como padrão
 export default App;
