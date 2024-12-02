@@ -1,75 +1,42 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+Plataforma de Cursos Online - Desafio Frontend Júnior
+Descrição do Projeto
+Este projeto é uma interface de usuário para uma plataforma de cursos online desenvolvida como parte do desafio técnico para a posição de Desenvolvedor Frontend Júnior. A aplicação permite explorar cursos disponíveis, visualizar detalhes, e se cadastrar em cursos, tudo em uma experiência de Single Page Application (SPA).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Principais Funcionalidades
+- Listagem de cursos com título, descrição, e instrutor.
+- Detalhes do curso incluindo duração, descrição completa e avaliações.
+- Cadastro em cursos diretamente pela página de detalhes.
+- Barra de pesquisa e filtros por categoria e instrutor.
+- Interface responsiva adaptada para dispositivos móveis e desktops.
+Instruções para Configuração
+1. Clone o repositório:
+   `git clone https://github.com/Henriquepr15/Plataforma-de-Cursos-Online---Desafio-Frontend-Junior.git`
+2. Acesse o diretório do projeto:
+   `cd Plataforma-de-Cursos-Online---Desafio-Frontend-Junior`
+3. Instale as dependências:
+   `npm install`
+4. Inicie o projeto localmente:
+   `npm start`
+5. Acesse o projeto no navegador em: `http://localhost:3000`.
 
-## Available Scripts
+Informações de Contato
+LinkedIn: https://www.linkedin.com/in/henrique-pires15
+E-mail: henriquepiresricoy@gmail.com
+GitHub Repositório do Projeto: https://github.com/Henriquepr15/Plataforma-de-Cursos-Online---Desafio-Frontend-Junior.git
 
-In the project directory, you can run:
+Imagens do projeto
 
-### `npm start`
+![image](https://github.com/user-attachments/assets/52c0935b-55da-4afa-ac5d-737e807c1a82)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![image](https://github.com/user-attachments/assets/fcd0a6d7-3471-4f48-9221-cbff792524d4)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Possíveis Melhorias Futuras
+- Implementação de um banco de dados para gerenciar usuários e cursos.
+- Melhorias no design e usabilidade da interface.
+- Adição de imagens de fundo dinâmicas por categoria.
+- Integração com APIs externas para avaliação de cursos.
+Imagens de futuras alterações
+![image](https://github.com/user-attachments/assets/18c0e256-33b9-49b1-9224-a025b609d295)
+![image](https://github.com/user-attachments/assets/4ba236d7-d900-458d-98bd-589c6a748c6b)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# Plataforma-de-Cursos-Online---Desafio-Frontend-Junior
-Plataforma de cursos online com React e TypeScript. Permite explorar cursos, visualizar detalhes, cadastrar-se e avaliar. Inclui filtros por categoria e instrutor, busca por palavras-chave e design responsivo. Simula gerenciamento de usuários e cursos, ideal para prática de habilidades em frontend e desenvolvimento de SPA.
->>>>>>> 5a694d2c890a912afab99536295be99569118fbe
